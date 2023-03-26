@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "243890983732",
+    "firebase_url": "https://ctse-assignment-74c10-default-rtdb.firebaseio.com",
+    "project_id": "ctse-assignment-74c10",
+    "storage_bucket": "ctse-assignment-74c10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243890983732:android:2bd53ddc335c23adcf4b61",
+        "android_client_info": {
+          "package_name": "com.example.sliit_info_ctse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243890983732-s6s4uhs09cdk2r6780d0e9fu4tel9lku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sliit_info_ctse",
+            "certificate_hash": "6515e56d2f5ad04b4e1b34e90d16b52c4a64eadc"
+          }
+        },
+        {
+          "client_id": "243890983732-dcmjugphv63n2jurohlv6uq34veh9bfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXh_qV0RJrq9w_JOSOA70bWx_sMTBLdF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243890983732-dcmjugphv63n2jurohlv6uq34veh9bfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
