@@ -1,16 +1,19 @@
 # sliit_info_ctse
 
-App to get information about SLIIT
+Mobile(Android) App Development Assignment (Group) - Submission
 
-## Getting Started
+Contributers:
 
-This project is a starting point for a Flutter application.
+Kavinda M.A.I.N IT20226046 Kuruppu S.G IT20061302 M. M. M. B. Moremada IT20227036 Kumarathunga M.A.M.T IT20236564
 
-A few resources to get you started if this is your first Flutter project:
+#NOTE
+Please find the individual contribution on pre merging branch 
+( we have to restructure and merge manually because there are some merge conflicts)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#individual work folder structure
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-- Kavinda M.A.I.N       IT20226046    - Screens -> user,Inquary , Model -> user,Inquary
+-- Kuruppu S.G.          IT20061302    - Screens -> Degree       , Model -> degree
+-- Moremada M.M.M.B.     IT20227046    - Screens -> event        , Model -> event,news
+-- Kumarathunge M.A.M.T  IT20236564    - Screens -> user<home    , Model -> User
+
