@@ -17,6 +17,9 @@ Please find the individual contribution on pre merging branch
 -- Moremada M.M.M.B.     IT20227046    - Screens -> event        , Model -> event,news <br/>
 -- Kumarathunge M.A.M.T  IT20236564    - Screens -> user<home    , Model -> User <br/>
 
+#project demonstration
+https://drive.google.com/drive/folders/14IQatva6uUFKy3NweXIWqwVJJ56DTW5J?usp=share_link
+
 #features
 
 Lecturer, student, guest have privileged access and role-based logins.  <br/>
