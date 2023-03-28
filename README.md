@@ -8,7 +8,7 @@ Kavinda M.A.I.N IT20226046 Kuruppu S.G IT20061302 M. M. M. B. Moremada IT2022703
 
 #NOTE
 Please find the individual contribution on pre merging branch 
-( we have to restructure and merge manually because there are some merge conflicts)
+( we have to restructure and merge manually because there are some merge conflicts that difficult to solve)
 
 #individual work folder structure
 
