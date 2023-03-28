@@ -12,8 +12,8 @@ Please find the individual contribution on pre merging branch
 
 #individual work folder structure
 
--- Kavinda M.A.I.N       IT20226046    - Screens -> user,Inquary , Model -> user,Inquary
--- Kuruppu S.G.          IT20061302    - Screens -> Degree       , Model -> degree
--- Moremada M.M.M.B.     IT20227046    - Screens -> event        , Model -> event,news
--- Kumarathunge M.A.M.T  IT20236564    - Screens -> user<home    , Model -> User
+-- Kavinda M.A.I.N       IT20226046    - Screens -> user,Inquary , Model -> user,Inquary <br/>
+-- Kuruppu S.G.          IT20061302    - Screens -> Degree       , Model -> degree <br/>
+-- Moremada M.M.M.B.     IT20227046    - Screens -> event        , Model -> event,news <br/>
+-- Kumarathunge M.A.M.T  IT20236564    - Screens -> user<home    , Model -> User <br/>
 
