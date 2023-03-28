@@ -17,3 +17,16 @@ Please find the individual contribution on pre merging branch
 -- Moremada M.M.M.B.     IT20227046    - Screens -> event        , Model -> event,news <br/>
 -- Kumarathunge M.A.M.T  IT20236564    - Screens -> user<home    , Model -> User <br/>
 
+#features
+
+Lecturer, student, guest have privileged access and role-based logins.  <br/>
+Student can create student profile and register.  <br/>
+Lecturer can create student profile and register. <br/>
+Lecturer can manage degrees(add, delete, update, view, list). <br/>
+Lecturer can manage events(add, delete, update, view, list). <br/>
+Lecturer can manage news(add, delete, update, view, list). <br/> 
+Student can view degree programs, staff and news. <br/>
+Student can  Manage inquiries (add,delete,update,view)
+Lecture can view and delete inquiries
+
+
